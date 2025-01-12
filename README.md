@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vehktaur
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End Web Development
+- 🌱 Senior Front-End Web Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: victorakhihiero@gmail.com
 
