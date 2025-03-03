@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm Victor Akhihiero! 👋
 
-I'm a **Frontend Engineer** with almost four years of experience building, maintaining, and optimizing user-friendly web applications. Passionate about creating seamless and accessible user interfaces, I specialize in **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**. 🎨💡⚡
+I'm a **Frontend Engineer** with several years of experience building, maintaining, and optimizing user-friendly web applications. Passionate about creating seamless and accessible user interfaces, I specialize in **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**. 🎨💡⚡
 
 ## 🚀 About Me 
 
