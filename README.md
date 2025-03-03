@@ -31,9 +31,9 @@ I'm a **Frontend Engineer** with almost four years of experience building, maint
 
 ## 📫 Let's Connect! 
 
-- 🌐 [Portfolio](#) (Still in development) 
-- 💼 [LinkedIn](#) 
-- 🐦 [Twitter/X](#) 
+- 🌐 [Portfolio](https://vehktaur.vercel.app/) (Still in development) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-akhihiero/) 
+- 🐦 [Twitter/X](https://x.com/vehktaur) 
 - ✉️ Reach me at: [victorakhihiero@gmail.com](mailto:victorakhihiero@gmail.com) 
 
 🚀 Always open to collaboration and exciting opportunities! 💡🔗🔥
