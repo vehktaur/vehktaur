@@ -34,7 +34,7 @@ I'm a **Frontend Engineer** with almost four years of experience building, maint
 - 🌐 [Portfolio](#) (Still in development) 
 - 💼 [LinkedIn](#) 
 - 🐦 [Twitter/X](#) 
-- ✉️ Reach me at: [akhihierovictor@gmail.com](mailto:victorakhihiero@gmail.com) 
+- ✉️ Reach me at: [victorakhihiero@gmail.com](mailto:victorakhihiero@gmail.com) 
 
 🚀 Always open to collaboration and exciting opportunities! 💡🔗🔥
 
